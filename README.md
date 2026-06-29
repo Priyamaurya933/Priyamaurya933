@@ -82,8 +82,7 @@ I'm a Computer Science Engineering student passionate about **Data Analytics**, 
 
 ## 🎯 Career Objective
 
-I'm actively looking for opportunities as a **Data Analyst**, **Business Analyst**, **MIS Executive**, or **Power BI Developer**, where I can apply my analytical skills and continue learning while contributing to business growth.
-
+Open to Data Analyst, Business Analyst, MIS Executive, and Power BI Developer opportunities. Passionate about solving business problems through data-driven insights.
 ---
 
 ## 📫 Connect With Me
